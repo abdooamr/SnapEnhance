@@ -8,7 +8,7 @@
 -keep class androidx.compose.material.icons.** { *; }
 -keep class androidx.compose.material3.R$* { *; }
 -keep class androidx.navigation.** { *; }
--keep class me.rhunk.snapenhance.** { *; }
+-keep class me.rhunk.abdooenhance.** { *; }
 
 -keepclassmembers class * implements android.os.Parcelable {
     public static final ** CREATOR;

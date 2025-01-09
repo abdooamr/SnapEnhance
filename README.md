@@ -15,7 +15,7 @@ Requirements:
 
 Although using this in an unrooted enviroment using something like `LSPatch` should be working fine, it is not recommended to do so, use at your own risk!
 
-1. Install the module APK from either this [Github repo](https://github.com/rhunk/SnapEnhance/releases) or the [LSPosed repo](https://modules.lsposed.org/module/me.rhunk.snapenhance)
+1. Install the module APK from either this [Github repo](https://github.com/rhunk/SnapEnhance/releases) or the [LSPosed repo](https://modules.lsposed.org/module/me.rhunk.abdooenhance)
 2. Turn on the module in `LSPosed` and make sure Snapchat is in scope
 3. Force Stop Snapchat
 4. Open the menu by clicking the [Settings Gear Icon](https://i.imgur.com/2grm8li.png)

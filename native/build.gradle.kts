@@ -14,6 +14,7 @@ android {
     }
 
     defaultConfig {
+        minSdk = 21  // Add this line to set minSdkVersion to 21
         buildConfigField("String", "NATIVE_NAME", "\"$nativeName\"")
         packaging {
             jniLibs {

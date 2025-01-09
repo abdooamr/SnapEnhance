@@ -64,7 +64,7 @@
 
         <provider
             android:name="androidx.core.content.FileProvider"
-            android:authorities="me.rhunk.snapenhance.fileprovider"
+            android:authorities="me.rhunk.abdooenhance.fileprovider"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data
